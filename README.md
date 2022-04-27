@@ -12,4 +12,4 @@ $ git clone https://github.com/Xavierous/cum
 
 $ cd cum
 
-$ python crot.py
+$ python run.py
