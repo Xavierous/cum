@@ -13,3 +13,10 @@ $ git clone https://github.com/Xavierous/cum
 $ cd cum
 
 $ python run.py
+
+#Lisensi
+
+
+LGVPE-LPEDX-REUIV-ANJIA
+
+1 day ae
