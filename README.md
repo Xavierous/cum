@@ -14,7 +14,7 @@ $ cd cum
 
 $ python run.py
 
-#Lisensi
+# Lisensi
 
 
 LGVPE-LPEDX-REUIV-ANJIA
