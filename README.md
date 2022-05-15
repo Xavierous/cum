@@ -16,7 +16,6 @@ $ python run.py
 
 # Lisensi
 
-
 LGVPE-LPEDX-REUIV-ANJIA
 
 1 day ae
